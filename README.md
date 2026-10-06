@@ -44,7 +44,7 @@
 ## Projects
 
 - **NeoChem** — Android chemistry learning application
-- **Game Price Tracker** — Web application for tracking game prices
+- **DreamCafe** — Web application for discovering and exploring cafés
 - **Retail Management System** — Java and database management project
 
 <br/>
