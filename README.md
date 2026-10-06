@@ -2,7 +2,7 @@
   <img src="./assets/200.webp" width="100%">
 </p>
 
-# Hi, I'm Naufal / Vel
+# Hi, I'm Naufal / Vel 
 
 Computer Science student interested in programming, full-stack development, and building useful projects.
 
@@ -37,8 +37,8 @@ Computer Science student interested in programming, full-stack development, and 
 ### ▸ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Veiyl16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veiyl16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mfinjeong&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfinjeong&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 ---
