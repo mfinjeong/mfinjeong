@@ -1,0 +1,4 @@
+Official project icons used to identify tools, without implying affiliation or endorsement.
+9router.svg: https://raw.githubusercontent.com/decolua/9router/master/public/favicon.svg
+hermes.svg: https://raw.githubusercontent.com/NousResearch/hermes-agent/main/website/static/img/favicon.svg
+Brand and artwork rights remain with their respective owners.

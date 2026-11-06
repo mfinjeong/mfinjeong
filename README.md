@@ -203,6 +203,16 @@
 
 <p align="center">
   <a href="https://github.com/decolua/9router">
+    <img src="./assets/ai/9router.svg" width="56" height="56" alt="9Router icon" title="9Router" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/NousResearch/hermes-agent">
+    <img src="./assets/ai/hermes.svg" width="56" height="56" alt="Hermes Agent icon" title="Hermes Agent" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/decolua/9router">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/9Router-AI%20routing-9BE9A8?style=for-the-badge&amp;labelColor=0D1117" />
       <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/9Router-AI%20routing-9BE9A8?style=for-the-badge&amp;labelColor=F6F8FA" />
