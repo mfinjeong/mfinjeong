@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/Mk8jpXI3d53J6fFJBr/giphy.gif" width="700" alt="Chiikawa profile banner" />
+  <img src="https://media.giphy.com/media/Mk8jpXI3d53J6fFJBr/giphy.gif" width="700" alt="Ren Amamiya" />
 </p>
 
 <h1 align="center">Hi, I'm Vel / Naufal 👋</h1>
@@ -42,24 +42,162 @@
 
 <h2 align="center">Tech Stack</h2>
 
-<p align="center">
-  What I build with, and what I'm learning along the way.
-</p>
+<p align="center">What I build with, and what I'm learning along the way.</p>
+
+<p align="center"><strong>Languages</strong></p>
 
 <p align="center">
+
   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,php,laravel,java,kotlin,mysql,git,github&amp;theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,php,laravel,java,kotlin,mysql,git,github&amp;theme=light" />
-      <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,java,kotlin,mysql,git,github&amp;theme=light" alt="HTML, CSS, JavaScript, PHP, Laravel, Java, Kotlin, MySQL, Git, and GitHub" />
-    </picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/html-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack/html-light.svg" />
+    <img src="./assets/stack/html-light.svg" width="44" height="44" alt="HTML" title="HTML" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/css-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack/css-light.svg" />
+    <img src="./assets/stack/css-light.svg" width="44" height="44" alt="CSS" title="CSS" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/js-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack/js-light.svg" />
+    <img src="./assets/stack/js-light.svg" width="44" height="44" alt="JavaScript" title="JavaScript" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/ts-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack/ts-light.svg" />
+    <img src="./assets/stack/ts-light.svg" width="44" height="44" alt="TypeScript" title="TypeScript" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/php-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack/php-light.svg" />
+    <img src="./assets/stack/php-light.svg" width="44" height="44" alt="PHP" title="PHP" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/java-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack/java-light.svg" />
+    <img src="./assets/stack/java-light.svg" width="44" height="44" alt="Java" title="Java" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/kotlin-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack/kotlin-light.svg" />
+    <img src="./assets/stack/kotlin-light.svg" width="44" height="44" alt="Kotlin" title="Kotlin" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/python-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack/python-light.svg" />
+    <img src="./assets/stack/python-light.svg" width="44" height="44" alt="Python" title="Python" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/c-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack/c-light.svg" />
+    <img src="./assets/stack/c-light.svg" width="44" height="44" alt="C" title="C" />
+  </picture>
+
 </p>
 
+<p align="center"><strong>Web & Frameworks</strong></p>
+
 <p align="center">
-  <strong>Web:</strong> TypeScript · React · Next.js · Tailwind CSS · Prisma<br />
-  <strong>CS practice:</strong> C · Python · Data Structures · Operating Systems
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/react-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack/react-light.svg" />
+    <img src="./assets/stack/react-light.svg" width="44" height="44" alt="React" title="React" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/nextjs-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack/nextjs-light.svg" />
+    <img src="./assets/stack/nextjs-light.svg" width="44" height="44" alt="Next.js" title="Next.js" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/tailwind-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack/tailwind-light.svg" />
+    <img src="./assets/stack/tailwind-light.svg" width="44" height="44" alt="Tailwind CSS" title="Tailwind CSS" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/laravel-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack/laravel-light.svg" />
+    <img src="./assets/stack/laravel-light.svg" width="44" height="44" alt="Laravel" title="Laravel" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/nodejs-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack/nodejs-light.svg" />
+    <img src="./assets/stack/nodejs-light.svg" width="44" height="44" alt="Node.js" title="Node.js" />
+  </picture>
+
 </p>
+
+<p align="center"><strong>Database & Data</strong></p>
+
+<p align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/mysql-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack/mysql-light.svg" />
+    <img src="./assets/stack/mysql-light.svg" width="44" height="44" alt="MySQL" title="MySQL" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/prisma-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack/prisma-light.svg" />
+    <img src="./assets/stack/prisma-light.svg" width="44" height="44" alt="Prisma" title="Prisma" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/firebase-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack/firebase-light.svg" />
+    <img src="./assets/stack/firebase-light.svg" width="44" height="44" alt="Firebase" title="Firebase" />
+  </picture>
+
+</p>
+
+<p align="center"><strong>Tools & Design</strong></p>
+
+<p align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/git-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack/git-light.svg" />
+    <img src="./assets/stack/git-light.svg" width="44" height="44" alt="Git" title="Git" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/github-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack/github-light.svg" />
+    <img src="./assets/stack/github-light.svg" width="44" height="44" alt="GitHub" title="GitHub" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/figma-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack/figma-light.svg" />
+    <img src="./assets/stack/figma-light.svg" width="44" height="44" alt="Figma" title="Figma" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/vercel-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack/vercel-light.svg" />
+    <img src="./assets/stack/vercel-light.svg" width="44" height="44" alt="Vercel" title="Vercel" />
+  </picture>
+
+</p>
+
+<p align="center"><sub>Tools from my projects and learning workflow, not a proficiency ranking.</sub></p>
 
 <br />
+
 
 <h2 align="center">AI Tools & Workflow</h2>
 
