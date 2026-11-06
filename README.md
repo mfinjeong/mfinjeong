@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/Mk8jpXI3d53J6fFJBr/giphy.gif" width="700" alt="Ren Amamiya profile banner" />
+  <img src="https://media.giphy.com/media/Mk8jpXI3d53J6fFJBr/giphy.gif" width="700" alt="Chiikawa profile banner" />
 </p>
 
 <h1 align="center">Hi, I'm Vel / Naufal 👋</h1>
