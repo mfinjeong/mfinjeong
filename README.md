@@ -14,10 +14,18 @@
 
 <p align="center">
   <a href="https://github.com/mfinjeong">
-    <img src="https://img.shields.io/badge/GitHub-mfinjeong-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub: mfinjeong" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-mfinjeong-0D1117?style=flat-square&amp;logo=github&amp;logoColor=white" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-mfinjeong-F6F8FA?style=flat-square&amp;logo=github&amp;logoColor=24292F" />
+      <img src="https://img.shields.io/badge/GitHub-mfinjeong-F6F8FA?style=flat-square&amp;logo=github&amp;logoColor=24292F" alt="GitHub: mfinjeong" />
+    </picture>
   </a>
   <a href="mailto:kenn.asanami@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20hello-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email Vel" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-Say%20hello-0D1117?style=flat-square&amp;logo=gmail&amp;logoColor=EA4335" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-Say%20hello-F6F8FA?style=flat-square&amp;logo=gmail&amp;logoColor=EA4335" />
+      <img src="https://img.shields.io/badge/Email-Say%20hello-F6F8FA?style=flat-square&amp;logo=gmail&amp;logoColor=EA4335" alt="Email Vel" />
+    </picture>
   </a>
 </p>
 
@@ -39,7 +47,11 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,java,kotlin,mysql,git,github" alt="HTML, CSS, JavaScript, PHP, Laravel, Java, Kotlin, MySQL, Git, and GitHub" />
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,php,laravel,java,kotlin,mysql,git,github&amp;theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,php,laravel,java,kotlin,mysql,git,github&amp;theme=light" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,java,kotlin,mysql,git,github&amp;theme=light" alt="HTML, CSS, JavaScript, PHP, Laravel, Java, Kotlin, MySQL, Git, and GitHub" />
+    </picture>
 </p>
 
 <p align="center">
@@ -53,10 +65,18 @@
 
 <p align="center">
   <a href="https://github.com/decolua/9router">
-    <img src="https://img.shields.io/badge/9Router-AI%20routing-9BE9A8?style=for-the-badge&labelColor=0D1117" alt="9Router: AI routing" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/9Router-AI%20routing-9BE9A8?style=for-the-badge&amp;labelColor=0D1117" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/9Router-AI%20routing-9BE9A8?style=for-the-badge&amp;labelColor=F6F8FA" />
+      <img src="https://img.shields.io/badge/9Router-AI%20routing-9BE9A8?style=for-the-badge&amp;labelColor=F6F8FA" alt="9Router: AI routing" />
+    </picture>
   </a>
   <a href="https://github.com/NousResearch/hermes-agent">
-    <img src="https://img.shields.io/badge/Hermes%20Agent-agent%20workflows-C4B5FD?style=for-the-badge&labelColor=0D1117" alt="Hermes Agent: agent workflows" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Hermes%20Agent-agent%20workflows-C4B5FD?style=for-the-badge&amp;labelColor=0D1117" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Hermes%20Agent-agent%20workflows-C4B5FD?style=for-the-badge&amp;labelColor=F6F8FA" />
+      <img src="https://img.shields.io/badge/Hermes%20Agent-agent%20workflows-C4B5FD?style=for-the-badge&amp;labelColor=F6F8FA" alt="Hermes Agent: agent workflows" />
+    </picture>
   </a>
 </p>
 
@@ -79,15 +99,27 @@
 
 <h2 align="center">GitHub Activity</h2>
 
-<!-- Shared palette: background 0D1117, border 2E343B, blue 0366D6. -->
+<!-- Theme-aware images: dark source + light source/fallback. GIF stays unchanged. -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mfinjeong&amp;theme=github_dark" width="380" alt="GitHub contribution statistics for mfinjeong" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mfinjeong&amp;theme=github_dark" width="380" alt="Public repositories by primary language" />
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mfinjeong&amp;theme=github_dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mfinjeong&amp;theme=github" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mfinjeong&amp;theme=github" width="380" alt="GitHub contribution statistics for mfinjeong" />
+    </picture>
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mfinjeong&amp;theme=github_dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mfinjeong&amp;theme=github" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mfinjeong&amp;theme=github" width="380" alt="Public repositories by primary language" />
+    </picture>
 </p>
 
 <p align="center">
   <a href="https://github.com/mfinjeong">
-    <img src="https://streak-stats.demolab.com?user=mfinjeong&amp;theme=github_dark&amp;background=0D1117&amp;border=2E343B&amp;stroke=2E343B&amp;ring=0366D6&amp;fire=0366D6&amp;currStreakLabel=0366D6&amp;sideLabels=8B949E&amp;sideNums=8B949E&amp;currStreakNum=8B949E&amp;dates=77909C" width="495" alt="GitHub contribution streak for mfinjeong" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mfinjeong&amp;theme=github_dark&amp;background=0D1117&amp;border=2E343B&amp;stroke=2E343B&amp;ring=0366D6&amp;fire=0366D6&amp;currStreakLabel=0366D6&amp;sideLabels=8B949E&amp;sideNums=8B949E&amp;currStreakNum=8B949E&amp;dates=77909C" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=mfinjeong&amp;theme=default&amp;background=FFFFFF&amp;border=E4E2E2&amp;stroke=E4E2E2&amp;ring=0366D6&amp;fire=0366D6&amp;currStreakLabel=0366D6&amp;sideLabels=586069&amp;sideNums=586069&amp;currStreakNum=586069&amp;dates=77909C" />
+      <img src="https://streak-stats.demolab.com?user=mfinjeong&amp;theme=default&amp;background=FFFFFF&amp;border=E4E2E2&amp;stroke=E4E2E2&amp;ring=0366D6&amp;fire=0366D6&amp;currStreakLabel=0366D6&amp;sideLabels=586069&amp;sideNums=586069&amp;currStreakNum=586069&amp;dates=77909C" width="495" alt="GitHub contribution streak for mfinjeong" />
+    </picture>
   </a>
 </p>
 
